@@ -9,22 +9,18 @@
 
 ## 🛠️ Tools & Skills:
 
-### Programming Languages:
+### Data Processing & Data Visualization:
 - Python
 - R
+- SQL
+- Tableau
+- Alteryx
 
 ### Databases & Big Data Tools:
-- SQL
 - Hadoop
 - Hive
 - Spark
 - AWS
-
-### Data Visualization:
-- Tableau
-- Alteryx
-
-
 
 ## 📬 Get In Touch:
 - 📧 Email: [zhan8549@umn.edu](mailto:zhan8549@umn.edu)
