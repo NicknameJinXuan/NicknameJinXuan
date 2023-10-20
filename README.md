@@ -1,16 +1,48 @@
-### Hi there, I'm Mingming Zhang 👋
+# 👋 Hello, I'm Mingming Zhang!
 
+🎓 **Education**: 
+- Master's degree in Business Analytics from the Carlson School of Management, University of Minnesota.
 
-**NicknameJinXuan/NicknameJinXuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 **Objective**: 
+- Showcase my portfolio
+- Seek opportunities in the field of data
 
-Here are some ideas to get you started:
+## 🛠️ Tools & Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... 
-- ⚡ Fun fact: ...
+### Programming Languages:
+- Python
+- R
+
+### Databases & Big Data Tools:
+- SQL
+- Hadoop
+- Hive
+- Spark
+
+### Data Visualization:
+- Tableau
+
+### Data Processing & Analysis Tools:
+- Alteryx
+- AWS
+
+### Data Analytics Skills:
+- Data Cleansing
+- Exploratory Data Analysis
+- Causal Inference
+- Experimental Design
+- A/B Testing
+- Statistical Modeling
+- Predictive Analytics
+- Big Data Analytics
+- Time Series Forecasting
+- Data Visualization
+
+## 📬 Get In Touch:
+- 📧 Email: [zhan8549@umn.edu](mailto:zhan8549@umn.edu)
+- 🔗 LinkedIn: [mingmingzhang1](https://www.linkedin.com/in/mingmingzhang1/)
+
+---
+
+Feel free to explore my repositories and engage with me on topics related to data analytics!
 
