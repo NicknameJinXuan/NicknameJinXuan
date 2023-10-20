@@ -16,7 +16,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/Alteryx-50A14F?style=for-the-badge&logo=alteryx&logoColor=white)
 
-### Databases & Big Data Tools:
+### Databases & Big Data:
 
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-0F79A7?style=for-the-badge&logo=hadoop&logoColor=white)
