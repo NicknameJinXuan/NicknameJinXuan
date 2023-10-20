@@ -10,17 +10,20 @@
 ## 🛠️ Tools & Skills:
 
 ### Data Processing & Data Visualization:
-- Python
-- R
-- SQL
-- Tableau
-- Alteryx
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-50A14F?style=for-the-badge&logo=alteryx&logoColor=white)
 
 ### Databases & Big Data Tools:
-- Hadoop
-- Hive
-- Spark
-- AWS
+
+![Hadoop](https://img.shields.io/badge/Hadoop-0F79A7?style=for-the-badge&logo=hadoop&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 
 
 ## 📬 Get In Touch:
