@@ -18,25 +18,13 @@
 - Hadoop
 - Hive
 - Spark
+- AWS
 
 ### Data Visualization:
 - Tableau
-
-### Data Processing & Analysis Tools:
 - Alteryx
-- AWS
 
-### Data Analytics Skills:
-- Data Cleansing
-- Exploratory Data Analysis
-- Causal Inference
-- Experimental Design
-- A/B Testing
-- Statistical Modeling
-- Predictive Analytics
-- Big Data Analytics
-- Time Series Forecasting
-- Data Visualization
+
 
 ## 📬 Get In Touch:
 - 📧 Email: [zhan8549@umn.edu](mailto:zhan8549@umn.edu)
