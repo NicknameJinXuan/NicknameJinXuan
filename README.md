@@ -23,7 +23,7 @@
 - AWS
 
 ## 📬 Get In Touch:
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/mingmingzhang1/)
+[![[LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mingmingzhang1/)
 [![Email](https://img.icons8.com/flat_round/64/000000/email.png)](mailto:zhan8549@umn.edu)
 
 ---
